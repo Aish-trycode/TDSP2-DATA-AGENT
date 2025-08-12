@@ -1,7 +1,5 @@
 # Read this file everything will happen on its own.
 
-`Note: try to use linux distro or install WSL(subsystem for linux) on windows.`
-
 ## 🚀 Features
 - Automatically installs dependencies from `requirements.txt`
 - Installs ngrok if not already installed
@@ -135,5 +133,6 @@ Sometimes, pressing **Ctrl+C** does not fully stop the Uvicorn server. This can 
 
 **Tip:**  
 Always make sure no old Uvicorn processes are running before starting the
+
 
 ![Uvicorn server stopping](photos/uvicorn_server_stoping.png)
